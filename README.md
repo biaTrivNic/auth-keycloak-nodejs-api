@@ -5,7 +5,7 @@ Este projeto é um exemplo básico de como implementar autenticação via Keyclo
 ## Pré-requisitos
 
 - [Node.js](https://nodejs.org/) instalado em sua máquina.
-- Um servidor Keycloak configurado com um realm, cliente id e client secret.
+- Um servidor Keycloak configurado com um realm, client id e client secret.
 
 ## Configuração do Projeto
 
