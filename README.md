@@ -14,7 +14,7 @@ Este projeto é um exemplo básico de como implementar autenticação via Keyclo
 Clone o repositório do projeto para sua máquina local:
 
 ```bash
-git clone <URL-DO-REPOSITORIO>
+git clone https://github.com/biaTrivNic/auth-keycloak-nodejs-api.git
 ```
 ### 2. Instale as Dependências
 
